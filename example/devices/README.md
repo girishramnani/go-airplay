@@ -2,11 +2,11 @@
 
 ## Install
 
-    $ go get github.com/gongo/go-airplay/example/devices
+    $ go get github.com/girishramnani/go-airplay/example/devices
 
 or
 
-    $ cd $GOPATH/src/github.com/gongo/go-airplay/example/devices
+    $ cd $GOPATH/src/github.com/girishramnani/go-airplay/example/devices
     $ go build
 
 ## Run

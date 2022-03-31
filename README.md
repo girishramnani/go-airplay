@@ -1,7 +1,7 @@
 go-airplay
 ==========
 
-[![GoDoc](http://godoc.org/github.com/gongo/go-airplay?status.svg)](http://godoc.org/github.com/gongo/go-airplay)
+[![GoDoc](http://godoc.org/github.com/girishramnani/go-airplay?status.svg)](http://godoc.org/github.com/girishramnani/go-airplay)
 [![Build Status](https://travis-ci.org/gongo/go-airplay.svg?branch=master)](https://travis-ci.org/gongo/go-airplay)
 [![Coverage Status](https://coveralls.io/repos/gongo/go-airplay/badge.png?branch=master)](https://coveralls.io/r/gongo/go-airplay?branch=master)
 
@@ -12,7 +12,7 @@ Go bindings for AirPlay client
 ### Videos
 
 ```go
-import "github.com/gongo/go-airplay"
+import "github.com/girishramnani/go-airplay"
 
 client, err := airplay.FirstClient()
 if err != nil {

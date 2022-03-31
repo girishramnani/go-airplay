@@ -1,4 +1,4 @@
-module github.com/gongo/go-airplay
+module github.com/girishramnani/go-airplay
 
 go 1.16
 
